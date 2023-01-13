@@ -6,7 +6,7 @@
 
 📫 tnfla0813@gmail.com
 
-[노션](https://www.notion.so/ef1d9af9408640eeb4704caa6112a548)을 참고하시면 더 많은 정보를 얻으실 수 있습니다. 
+노션을 참고하시면 더 많은 정보를 얻으실 수 있습니다. 
 
 <!-- 잘만든 탬플릿
 https://github.com/JeongHwan-dev/JeongHwan-dev/blob/main/README.md
