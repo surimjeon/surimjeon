@@ -4,9 +4,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurimjeon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="mailto:tnfla0813@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tnfla0813@gmail.com"/></a>
+<a href="https://tree0123.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=JEON&nbsp;SU&nbsp;RIM&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20Korea%20IT%20Expert%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B983D6&fontColor=ffffff&height=250&section=header&text=JEON&nbsp;SU&nbsp;RIM&fontSize=60&fontAlignY=35&desc=Here%20is%20future%20Korea%20IT%20Expert%20GitHub&descAlignY=55&&animation=fadeIn" />
   
 
 안녕하세요. 성장하고 있는 🐤병아리 개발자 전수림입니다.
@@ -35,6 +36,8 @@
   <p align="center">   
   <h3>⚒️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -52,7 +55,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surimjeon&theme=tokyonight)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gds0813)](https://solved.ac/gds0813)
+[![python solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gds0813)](https://solved.ac/gds0813)
+[![java solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tree0123)](https://solved.ac/tree0123)
 
 
 </div> 
